@@ -1,0 +1,5 @@
+{
+  "name": "User Dashboard New 3",
+  "description": "An interactive and comprehensive platform for taking mock exams. Features user authentication, categorized tests, real-time test-taking with a timer, result analysis with charts, and detailed solution reviews.",
+  "requestFramePermissions": []
+}
